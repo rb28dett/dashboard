@@ -1,0 +1,9 @@
+
+{
+    "items": [
+        {
+            "trans": "rb28dett_dashboard::general.dashboard",
+            "route": "rb28dett::dashboard"
+        }
+    ]
+}
